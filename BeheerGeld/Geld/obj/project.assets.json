@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\HoGent\\Programmeren gevorderd\\Opdrachten\\BeheerGeld\\Geld\\Geld.csproj",
+      "projectUniqueName": "D:\\OneDrive\\HoGent\\Programmeren gevorderd\\Opdrachten\\VS\\BeheerGeld\\Geld\\Geld.csproj",
       "projectName": "Geld",
-      "projectPath": "D:\\OneDrive\\HoGent\\Programmeren gevorderd\\Opdrachten\\BeheerGeld\\Geld\\Geld.csproj",
+      "projectPath": "D:\\OneDrive\\HoGent\\Programmeren gevorderd\\Opdrachten\\VS\\BeheerGeld\\Geld\\Geld.csproj",
       "packagesPath": "C:\\Users\\Hendrik\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\HoGent\\Programmeren gevorderd\\Opdrachten\\BeheerGeld\\Geld\\obj\\",
+      "outputPath": "D:\\OneDrive\\HoGent\\Programmeren gevorderd\\Opdrachten\\VS\\BeheerGeld\\Geld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
