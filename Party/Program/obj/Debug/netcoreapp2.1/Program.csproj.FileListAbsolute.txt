@@ -1,0 +1,14 @@
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Party\Program\bin\Debug\netcoreapp2.1\Program.deps.json
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Party\Program\bin\Debug\netcoreapp2.1\Program.runtimeconfig.json
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Party\Program\bin\Debug\netcoreapp2.1\Program.runtimeconfig.dev.json
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Party\Program\bin\Debug\netcoreapp2.1\Program.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Party\Program\bin\Debug\netcoreapp2.1\Program.pdb
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Party\Program\bin\Debug\netcoreapp2.1\Party.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Party\Program\bin\Debug\netcoreapp2.1\Party.pdb
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Party\Program\obj\Debug\netcoreapp2.1\Program.csprojAssemblyReference.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Party\Program\obj\Debug\netcoreapp2.1\Program.csproj.CoreCompileInputs.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Party\Program\obj\Debug\netcoreapp2.1\Program.AssemblyInfoInputs.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Party\Program\obj\Debug\netcoreapp2.1\Program.AssemblyInfo.cs
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Party\Program\obj\Debug\netcoreapp2.1\Program.csproj.CopyComplete
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Party\Program\obj\Debug\netcoreapp2.1\Program.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Party\Program\obj\Debug\netcoreapp2.1\Program.pdb

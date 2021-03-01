@@ -1,0 +1,9 @@
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\Bierwinkel\BierWinkel\bin\Debug\netcoreapp2.1\BierWinkel.deps.json
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\Bierwinkel\BierWinkel\bin\Debug\netcoreapp2.1\BierWinkel.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\Bierwinkel\BierWinkel\bin\Debug\netcoreapp2.1\BierWinkel.pdb
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\Bierwinkel\BierWinkel\obj\Debug\netcoreapp2.1\BierWinkel.csprojAssemblyReference.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\Bierwinkel\BierWinkel\obj\Debug\netcoreapp2.1\BierWinkel.csproj.CoreCompileInputs.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\Bierwinkel\BierWinkel\obj\Debug\netcoreapp2.1\BierWinkel.AssemblyInfoInputs.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\Bierwinkel\BierWinkel\obj\Debug\netcoreapp2.1\BierWinkel.AssemblyInfo.cs
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\Bierwinkel\BierWinkel\obj\Debug\netcoreapp2.1\BierWinkel.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\Bierwinkel\BierWinkel\obj\Debug\netcoreapp2.1\BierWinkel.pdb

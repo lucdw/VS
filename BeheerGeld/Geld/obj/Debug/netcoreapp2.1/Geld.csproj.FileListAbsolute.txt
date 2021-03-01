@@ -1,0 +1,9 @@
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\Geld\bin\Debug\netcoreapp2.1\Geld.deps.json
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\Geld\bin\Debug\netcoreapp2.1\Geld.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\Geld\bin\Debug\netcoreapp2.1\Geld.pdb
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\Geld\obj\Debug\netcoreapp2.1\Geld.csprojAssemblyReference.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\Geld\obj\Debug\netcoreapp2.1\Geld.csproj.CoreCompileInputs.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\Geld\obj\Debug\netcoreapp2.1\Geld.AssemblyInfoInputs.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\Geld\obj\Debug\netcoreapp2.1\Geld.AssemblyInfo.cs
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\Geld\obj\Debug\netcoreapp2.1\Geld.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\Geld\obj\Debug\netcoreapp2.1\Geld.pdb

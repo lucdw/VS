@@ -1,0 +1,14 @@
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\ConsoleAppGeld\bin\Debug\netcoreapp2.1\ConsoleAppGeld.deps.json
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\ConsoleAppGeld\bin\Debug\netcoreapp2.1\ConsoleAppGeld.runtimeconfig.json
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\ConsoleAppGeld\bin\Debug\netcoreapp2.1\ConsoleAppGeld.runtimeconfig.dev.json
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\ConsoleAppGeld\bin\Debug\netcoreapp2.1\ConsoleAppGeld.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\ConsoleAppGeld\bin\Debug\netcoreapp2.1\ConsoleAppGeld.pdb
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\ConsoleAppGeld\bin\Debug\netcoreapp2.1\Geld.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\ConsoleAppGeld\bin\Debug\netcoreapp2.1\Geld.pdb
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\ConsoleAppGeld\obj\Debug\netcoreapp2.1\ConsoleAppGeld.csprojAssemblyReference.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\ConsoleAppGeld\obj\Debug\netcoreapp2.1\ConsoleAppGeld.csproj.CoreCompileInputs.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\ConsoleAppGeld\obj\Debug\netcoreapp2.1\ConsoleAppGeld.AssemblyInfoInputs.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\ConsoleAppGeld\obj\Debug\netcoreapp2.1\ConsoleAppGeld.AssemblyInfo.cs
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\ConsoleAppGeld\obj\Debug\netcoreapp2.1\ConsoleAppGeld.csproj.CopyComplete
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\ConsoleAppGeld\obj\Debug\netcoreapp2.1\ConsoleAppGeld.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\Bierwinkel\BeheerGeld\ConsoleAppGeld\obj\Debug\netcoreapp2.1\ConsoleAppGeld.pdb
