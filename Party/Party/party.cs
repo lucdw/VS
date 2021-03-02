@@ -4,7 +4,7 @@ namespace Party
 {
     public abstract class party
     {
-        private bool versieringLuxe { get; set; }
+        private bool _versieringLuxe { get; set; }
 
         #region Properties
 
@@ -17,7 +17,7 @@ namespace Party
         public party(int aantal, bool versiering)
         {
             AantalPersonen = aantal;
-            versieringLuxe = versiering;
+            _versieringLuxe = versiering;
         }
 
         #endregion
@@ -35,7 +35,7 @@ namespace Party
         public override string ToString()
         {
             string msg = "Feestje:\n\tKost: " + totaalKost().ToString() + " euro.";
-            if (versieringLuxe) msg += "\n\tInclusief luxe versiering.";
+            if (_versieringLuxe) msg += "\n\tInclusief luxe versiering.";
             else msg += "\n\tExclusief luxe versiering.";
             return msg;
         }
@@ -59,7 +59,7 @@ namespace Party
         private double decoratieKost()
         {
             double result;
-            if (versieringLuxe)
+            if (_versieringLuxe)
             {
                 result = 50 + (15 * AantalPersonen);
             }
