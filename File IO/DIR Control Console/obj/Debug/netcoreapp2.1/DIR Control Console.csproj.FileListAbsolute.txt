@@ -1,0 +1,10 @@
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\File IO\DIR Control Console\bin\Debug\netcoreapp2.1\DIR Control Console.deps.json
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\File IO\DIR Control Console\bin\Debug\netcoreapp2.1\DIR Control Console.runtimeconfig.json
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\File IO\DIR Control Console\bin\Debug\netcoreapp2.1\DIR Control Console.runtimeconfig.dev.json
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\File IO\DIR Control Console\bin\Debug\netcoreapp2.1\DIR Control Console.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\File IO\DIR Control Console\bin\Debug\netcoreapp2.1\DIR Control Console.pdb
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\File IO\DIR Control Console\obj\Debug\netcoreapp2.1\DIR Control Console.csproj.CoreCompileInputs.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\File IO\DIR Control Console\obj\Debug\netcoreapp2.1\DIR Control Console.AssemblyInfoInputs.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\File IO\DIR Control Console\obj\Debug\netcoreapp2.1\DIR Control Console.AssemblyInfo.cs
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\File IO\DIR Control Console\obj\Debug\netcoreapp2.1\DIR Control Console.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\File IO\DIR Control Console\obj\Debug\netcoreapp2.1\DIR Control Console.pdb

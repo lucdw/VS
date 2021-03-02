@@ -8,7 +8,7 @@ namespace BIN_Writer_Console
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            string path = @"D:\OneDrive\HoGent\test.bin";
+            string path = @"D:\OneDrive\HoGent\testProg.bin";
             FileInfo f = new FileInfo(path);
             using (BinaryWriter bw = new BinaryWriter(f.OpenWrite()))
             {

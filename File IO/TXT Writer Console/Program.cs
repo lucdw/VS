@@ -7,9 +7,9 @@ namespace TXT_Writer_Console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello writing your file @D:\\OneDrive\\HoGent\test.txt :D");
+            Console.WriteLine("Hello writing your file @D:\\OneDrive\\HoGent\testProg.txt :D");
 
-            string path = @"D:\OneDrive\HoGent\test.txt";
+            string path = @"D:\OneDrive\HoGent\testProg.txt";
             using (StreamWriter sw = new StreamWriter(path, false)) //False replace file with new empty && True append file
             {
                 for (int i = 1; i < 11; i++)
