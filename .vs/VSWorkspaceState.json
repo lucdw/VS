@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Party"
+    "\\Party",
+    "\\Party\\Party",
+    "\\Party\\Program"
   ],
   "SelectedNode": "\\Party\\Party.sln",
   "PreviewInSolutionExplorer": false

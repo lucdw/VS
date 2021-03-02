@@ -7,7 +7,7 @@ namespace BureauWriter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello writing your file @D:\\OneDrive\\HoGent\test.txt :D");
+            Console.WriteLine("Hello writing your file @D:\\OneDrive\\HoGent\\test.txt :D");
 
             string path = @"D:\OneDrive\HoGent\test.txt";
             using (StreamWriter sw = new StreamWriter(path, false)) //False replace file with new empty && True append file
