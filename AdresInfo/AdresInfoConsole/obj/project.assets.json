@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "AdresInfoLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/AdresInfoLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AdresInfoLib.dll": {}
+        }
       }
     }
   },
@@ -680,10 +690,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "AdresInfoLib/1.0.0": {
+      "type": "project",
+      "path": "../AdresInfoLib/AdresInfoLib.csproj",
+      "msbuildProject": "../AdresInfoLib/AdresInfoLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "AdresInfoLib >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -716,7 +732,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\OneDrive\\HoGent\\Programmeren gevorderd\\Opdrachten\\VS\\AdresInfo\\AdresInfoLib\\AdresInfoLib.csproj": {
+              "projectPath": "D:\\OneDrive\\HoGent\\Programmeren gevorderd\\Opdrachten\\VS\\AdresInfo\\AdresInfoLib\\AdresInfoLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

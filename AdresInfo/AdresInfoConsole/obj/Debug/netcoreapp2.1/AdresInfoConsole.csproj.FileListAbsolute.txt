@@ -1,0 +1,14 @@
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoConsole\bin\Debug\netcoreapp2.1\AdresInfoConsole.deps.json
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoConsole\bin\Debug\netcoreapp2.1\AdresInfoConsole.runtimeconfig.json
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoConsole\bin\Debug\netcoreapp2.1\AdresInfoConsole.runtimeconfig.dev.json
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoConsole\bin\Debug\netcoreapp2.1\AdresInfoConsole.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoConsole\bin\Debug\netcoreapp2.1\AdresInfoConsole.pdb
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoConsole\bin\Debug\netcoreapp2.1\AdresInfoLib.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoConsole\bin\Debug\netcoreapp2.1\AdresInfoLib.pdb
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoConsole\obj\Debug\netcoreapp2.1\AdresInfoConsole.csprojAssemblyReference.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoConsole\obj\Debug\netcoreapp2.1\AdresInfoConsole.csproj.CoreCompileInputs.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoConsole\obj\Debug\netcoreapp2.1\AdresInfoConsole.AssemblyInfoInputs.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoConsole\obj\Debug\netcoreapp2.1\AdresInfoConsole.AssemblyInfo.cs
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoConsole\obj\Debug\netcoreapp2.1\AdresInfoConsole.csproj.CopyComplete
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoConsole\obj\Debug\netcoreapp2.1\AdresInfoConsole.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoConsole\obj\Debug\netcoreapp2.1\AdresInfoConsole.pdb

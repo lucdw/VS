@@ -1,0 +1,9 @@
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoLib\bin\Debug\netcoreapp2.1\AdresInfoLib.deps.json
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoLib\bin\Debug\netcoreapp2.1\AdresInfoLib.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoLib\bin\Debug\netcoreapp2.1\AdresInfoLib.pdb
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoLib\obj\Debug\netcoreapp2.1\AdresInfoLib.csprojAssemblyReference.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoLib\obj\Debug\netcoreapp2.1\AdresInfoLib.csproj.CoreCompileInputs.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoLib\obj\Debug\netcoreapp2.1\AdresInfoLib.AssemblyInfoInputs.cache
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoLib\obj\Debug\netcoreapp2.1\AdresInfoLib.AssemblyInfo.cs
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoLib\obj\Debug\netcoreapp2.1\AdresInfoLib.dll
+D:\OneDrive\HoGent\Programmeren gevorderd\Opdrachten\VS\AdresInfo\AdresInfoLib\obj\Debug\netcoreapp2.1\AdresInfoLib.pdb
