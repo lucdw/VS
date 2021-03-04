@@ -1,0 +1,12 @@
+﻿{
+  "straatnaam": "Straatnamen.csv",
+  "gemeentenaam": "Gemeentenaam.csv",
+  "provincieInfo": "ProvincieInfo.csv",
+  "straatnaamgemeente": "StraatnaamID_GemeenteID.csv",
+  "provincies": "ProvincieIDsVlaanderen.csv",
+  "path": "D:\\WorkSpace\\VS\\",
+  "ZIP": "adresbestanden.zip",
+  "pathExtract": "D:\\WorkSpace\\VS\\extract",
+  "pathResults": "D:\\WorkSpace\\VS\\results",
+  "outputFileName": "adresinfo.txt"
+}
